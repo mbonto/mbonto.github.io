@@ -130,7 +130,7 @@ author:
       # url: "https://instagram.com/"
 
 # Site Header
-  image: /assets/header.jpg
+  image: "/assets/header.jpg"
   image_description: "A description of the image"
   caption: "A description of the image"
 
