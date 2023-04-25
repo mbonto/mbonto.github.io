@@ -1,7 +1,7 @@
 ---
 layout: single
 header:
-  image: "/assets/header.JPG"
+  image: "/assets/images/header.jpg"
 title: "Research"
 permalink: /research/
 ---
