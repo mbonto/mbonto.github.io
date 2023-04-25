@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "Biography"
-permalink: /biography/
 header:
   image: "/assets/header.jpg"
   image_description: "A description of the image"
   caption: "A description of the image"
+title: "Biography"
+permalink: /biography/
 ---
 
 # This is my biography.
