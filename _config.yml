@@ -132,6 +132,7 @@ author:
 # Site Header
   image: /assets/header.jpg
   image_description: "A description of the image"
+  caption: "A description of the image"
 
 # Site Footer
 footer:
