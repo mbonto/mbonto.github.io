@@ -129,6 +129,9 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
+# Site Header
+  image: /assets/header.jpg
+
 # Site Footer
 footer:
   links:
