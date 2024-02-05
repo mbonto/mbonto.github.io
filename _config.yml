@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "/assets/images/header_2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            : 
+  name             : "Myriam Bontonou"
+  avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Post-doctoral researcher. LBMC/LP, ENS de Lyon, Univ Lyon, Lyon, France."
+  location         : "ENS de Lyon, Monod site"
+  email            : myriam.bontonou@ens-lyon.fr
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
