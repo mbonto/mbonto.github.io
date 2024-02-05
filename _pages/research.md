@@ -4,6 +4,7 @@ header:
   image: "/assets/images/header.jpg"
 title: "Research"
 permalink: /research/
+classes: wide
 ---
 My work is centered on advancing the field of machine learning, with a focus on two themes that are crucial for many applications: mastering learning from a small number of examples and unraveling the decision-making processes of trained models. I am also interested in graph signal processing, both for its potential in data modelling and its capacity to enhance learning methodologies. Below is a selection of articles illustrating my contributions in these areas.
 
