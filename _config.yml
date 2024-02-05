@@ -107,9 +107,9 @@ author:
   name             : "Myriam Bontonou"
   avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : |
-                     "Post-doctoral researcher."
-                     "LBMC/LP, ENS de Lyon, Univ Lyon, Lyon, France."
-  location         : "ENS de Lyon, Monod site"
+                     Post-doctoral researcher.
+                     LBMC/LP, ENS de Lyon, Univ Lyon, Lyon, France.
+  location         : "ENS de Lyon, Monod site."
   email            : myriam.bontonou@ens-lyon.fr
   links:
     - label: "Email"
