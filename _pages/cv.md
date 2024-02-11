@@ -7,4 +7,4 @@ permalink: /cv/
 classes: wide
 ---
 
-Coming soon
+Coming soon.
