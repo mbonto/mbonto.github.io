@@ -122,8 +122,9 @@
    ========================================================================== */
 
 .author__avatar {
-  display: table-cell;
-  vertical-align: top;
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
   width: 150px;
   height: 150px;
 
@@ -134,8 +135,10 @@
   }
 
   img {
-    max-width: 150px;
+    max-width: 100%;
+    max-height: 100%;
     border-radius: 50%;
+    display: block;
 
     @include breakpoint($large) {
       padding: 5px;
