@@ -9,6 +9,20 @@ classes: wide
 
 During my career, I have had the opportunity to create and organise courses on the themes of artificial intelligence, data analysis, and signal processing.
 
+**Master Artificial Intelligence Université de Rennes**
+- Optimisation (M1)
+
+**Master Computer Methods Applied to Business Management Université de Rennes**
+- Modelisation and discrete optimisation (M1, international stream)
+  
+**Licence Biology Université de Rennes**
+- Introduction to artificial intelligence (L1)
+- Learning to teach computer science in primary schools (L3)
+
+**Licence Computer Science Université de Rennes**
+- Graph modeling and algorithms (L3)
+- Linear optimisation (L3)
+  
 **Master Sciences de la Matière ENS de Lyon**
 - Data processing and modelling (M2 complex systems)
 
