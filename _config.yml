@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "Myriam Bontonou"
   avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Post-doctoral researcher.<br>ENS de Lyon, Univ Lyon, France."
-  location         : "ENS de Lyon, Monod site."
-  email            : myriam.bontonou@ens-lyon.fr
+  bio              : "Associate professor (3-year contract).<br>Université de Rennes, France."
+  location         : "Université de Rennes, Beaulieu site."
+  email            : myriam.bontonou[at]irisa[dot]fr
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
