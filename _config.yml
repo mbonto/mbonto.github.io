@@ -107,7 +107,7 @@ author:
   name             : "Myriam Bontonou"
   avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Associate professor (CDD)<br>France"
-  location         : "Université de Rennes, Beaulieu site."
+  location         : "Université de Rennes"
   email            : myriam.bontonou[at]irisa[dot]fr
   links:
     - label: "Email"
